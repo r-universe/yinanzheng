@@ -8,8 +8,3 @@
 	url = https://github.com/yinanzheng/hima
 	shallow = true
 	registered = true
-[submodule "REMP"]
-	path = REMP
-	url = https://github.com/yinanzheng/remp
-	shallow = true
-	registered = true
