@@ -1,9 +1,9 @@
 [
   {
-    "package": "REMP"
-  },
-  {
     "package": "HIMA",
     "oncran": true
+  },
+  {
+    "package": "REMP"
   }
 ]
