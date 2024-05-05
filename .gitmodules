@@ -5,6 +5,3 @@
 [submodule "HIMA"]
 	path = HIMA
 	url = https://github.com/yinanzheng/hima
-[submodule "REMP"]
-	path = REMP
-	url = https://github.com/yinanzheng/remp
